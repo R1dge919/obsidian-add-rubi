@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-add-rubi",
+	"name": "Add-Rubi",
+	"version": "0.0.1",
 	"minAppVersion": "0.15.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
+	"description": "HTMLタグでルビを付与する拡張機能",
+	"author": "RR1dge",
 	"authorUrl": "https://obsidian.md",
 	"isDesktopOnly": false
 }
